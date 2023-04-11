@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "741633211217",
+    "project_id": "ganeshapp-cbbd2",
+    "storage_bucket": "ganeshapp-cbbd2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:741633211217:android:3ff87c456a5b98269cf170",
+        "android_client_info": {
+          "package_name": "com.example.ganesh_chating_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "741633211217-f3g32dcn5vf0ghqtrqsl919ll2vic78t.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBRRRzhL0uHlx22R5mohcXsyqaMloFRzGU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "741633211217-f3g32dcn5vf0ghqtrqsl919ll2vic78t.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
